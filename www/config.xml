@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.hello-world" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="edu.byu.skin-a" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Skin A</name>
     <description>
         Stupid sample skin for testing purposes.
     </description>
     <author email="ricksmt@ls.byu.edu" href="http://lswebteam.byu.edu">
-        PhoneGap Team
+        Matthew Ricks
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="permissions" value="none" />
